@@ -10,10 +10,10 @@ I've been experimenting with code since 2016, working on projects ranging from M
 
 ### 🚀 About Me
 
-- 🎓 Studying Computer Science
-- 💻 Interested in software development and programming
-- 🎮 Experienced with Minecraft plugins and Discord bots
-- 🌱 Always learning, building and improving
+- 🎓 Studying Computer Science (Software Engineering Degree)
+- 💻 Interested in software development, engineering and programming
+- 🎮 Experienced with Minecraft skripts, HTML and Discord bots
+- 🌱 Always open to learning, building and improving
 - 📂 Exploring new projects and technologies
 
 ### 🛠️ Technologies & Tools
